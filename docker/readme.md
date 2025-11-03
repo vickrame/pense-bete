@@ -1,6 +1,7 @@
 # Remove a container and its volume 
 
-docker image prune
+
+> docker image prune
 
 ## Removing images according to a pattern
 ### list
